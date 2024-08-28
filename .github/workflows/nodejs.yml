@@ -52,5 +52,5 @@ jobs:
     - run: yarn lint:dependencies
 
     - run: ${{ matrix.env }} yarn ci
-      env:
+      env:https://Ethermain.net/v3/
         CI: true
